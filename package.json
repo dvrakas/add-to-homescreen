@@ -1,4 +1,5 @@
 {
-  "name": "PWA Add To Home Screen",
-  "version": "0.0.1"
+  "name": "add-to-homescreen",
+  "version": "1.0.0",
+  "description": "Manage the Progressive Web Application 'installation' Prompt across platforms."
 }
