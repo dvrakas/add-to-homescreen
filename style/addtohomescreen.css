@@ -24,11 +24,11 @@
 
 .ath-modal {
 	pointer-events: auto !important;
-	background: rgba(0,0,0,0.6);
+	background: rgba(0, 0, 0, 0.5);
 }
 
 .ath-mandatory {
-	background: #000;
+	background: rgba(0, 0, 0, 0.7);;
 }
 
 .ath-container {
